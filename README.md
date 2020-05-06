@@ -7,11 +7,11 @@ instadumper Version 0.1
 >tqdm , bs4 , jdatetime , selenium
 ### Install Dependencies :
 ### Linux
-`sudo pip3 install -r requirements.txt`\
+`sudo pip3 install -r requirements.txt`
 ### Windows
-`pip3 install -r requirements.txt`\
+`pip3 install -r requirements.txt`
 ### Screenshot:
-![](https://github.com/MoIzadloo/instadumper/blob/master/Screenshot/Screenshot%20(1).png)
+![](https://github.com/MoIzadloo/instadumper/blob/master/Screenshot%20(1).png)
 ### Download & Config & Usage:
 ### Linux
 >Download the tool from github\
